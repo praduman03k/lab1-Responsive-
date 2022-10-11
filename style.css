@@ -1,0 +1,377 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+    /* background-color: #121212; */
+}
+nav{
+    position: sticky;
+
+}
+.span{
+    border: 1px solid;
+    border-radius: 30%;
+    height: 30px;
+    width: 90px;
+    background-color: rgb(202, 202, 202);
+    position: relative;
+    text-align: center;
+    font-size: 17px;
+    left: 400px;
+    top: 45px;
+}
+.games{
+    border: 1px solid;
+    border-radius: 30%;
+    height: 30px;
+    width: 90px;
+    background-color: rgb(202, 202, 202);
+    position: relative;
+    text-align: center;
+    font-size: 17px;
+    left: 400px;
+    top: 45px;
+}
+.cricket{
+    border: 1px solid;
+    border-radius: 30%;
+    height: 30px;
+    width: 90px;
+    background-color: rgb(202, 202, 202);
+    position: relative;
+    text-align: center;
+    font-size: 17px;
+    left: 400px;
+    top: 45px;
+}
+.cars{
+    border: 1px solid;
+    border-radius: 30%;
+    height: 30px;
+    width: 90px;
+    background-color: rgb(202, 202, 202);
+    position: relative;
+    text-align: center;
+    font-size: 17px;
+    left: 400px;
+    top: 45px;
+}
+.iphone{
+    border: 1px solid;
+    border-radius: 30%;
+    height: 30px;
+    width: 90px;
+    background-color: rgb(202, 202, 202);
+    position: relative;
+    text-align: center;
+    font-size: 17px;
+    left: 400px;
+    top: 45px;
+}
+.tour{
+    border: 1px solid;
+    border-radius: 30%;
+    height: 30px;
+    width: 90px;
+    background-color: rgb(202, 202, 202);
+    position: relative;
+    text-align: center;
+    font-size: 17px;
+    left: 400px;
+    top: 45px;
+}
+.tech{
+    border: 1px solid;
+    border-radius: 30%;
+    height: 30px;
+    width: 90px;
+    background-color: rgb(202, 202, 202);
+    position: relative;
+    text-align: center;
+    font-size: 17px;
+    left: 400px;
+    top: 45px;
+}
+.design{
+    border: 1px solid;
+    border-radius: 30%;
+    height: 30px;
+    width: 90px;
+    background-color: rgb(202, 202, 202);
+    position: relative;
+    text-align: center;
+    font-size: 17px;
+    left: 400px;
+    top: 45px;
+}
+.hamburger{
+    width: 50px;
+    margin-top: 20px;
+}
+.youtube{
+    width: 150px;
+    margin-left: 20px;
+    position: relative;
+    bottom: 10px;
+}
+.searchbox{
+    width: 500px;
+    height: 35px;
+    margin-left: 300px;
+    position: relative;
+    bottom: 30px;
+    border: 1px solid grey;
+    outline: none;
+
+}
+.search{
+    width: 25px;
+    position: relative;
+    bottom: 20px;
+    border: none;
+    outline: none;
+}
+.mic{
+    width: 35px;
+    position: relative;
+    bottom: 15px;
+}
+.create{
+    width: 35px;
+    position: relative;
+    bottom: 15px;
+    left: 170px;
+}
+.more{
+    width: 35px;
+    position: relative;
+    bottom: 15px;
+    left: 175px;
+}
+.notification{
+    width: 35px;
+    position: relative;
+    bottom: 15px;  
+    left: 180px; 
+}
+.profile{
+    width: 35px;
+    position: relative;
+    bottom: 15px;  
+    left: 185px; 
+}
+.home{
+    width: 35px;
+    position: relative;
+    top: 10px;
+}
+.explore{
+    width: 35px;
+    position: relative;
+    top: 60px;
+    right: 85px;
+}
+.shorts{
+    width: 35px;
+    position: relative;
+    top: 110px;
+    right: 180px;
+}
+.subscription{
+    width: 35px;
+    position: relative;
+    top: 160px;
+    right: 270px;
+}
+.library{
+    width: 35px;
+    position: relative;
+    top: 210px;
+    right: 410px;
+}
+.history{
+    width: 35px;
+    position: relative;
+    top: 260px;
+    right: 500px;
+}
+.videos{
+    width: 35px;
+    position: relative;
+    top: 310px;
+    right: 595px;
+}
+.watch_later{
+    width: 35px;
+    position: relative;
+    top: 360px;
+    right: 685px;
+}
+.liked{
+    width: 35px;
+    position: relative;
+    top: 410px;
+    right: 810px;
+}
+.down_arrow{
+    width: 35px;
+    position: relative;
+    top: 465px;
+    right: 950px;
+}
+.thumbnailrow1{
+    display: inline-flex;
+    position: relative;
+    left: 325px;
+    top: 10px;
+
+}
+.thumbnailrow2{
+    display: inline-flex;
+    position: relative;
+    left: 325px;
+    top: 10px;
+
+}
+.thumbnailrow3{
+    display: inline-flex;
+    position: relative;
+    left: 325px;
+    top: 10px;
+
+}
+.homep{
+    display: inline-flex;
+    position: relative;
+    bottom: 2px;
+    left: 25px;
+}
+.shortsp{
+    display: inline-flex;
+    position: relative;
+    top: 100px;
+    right: 160px;
+}
+.explorep{
+    display: inline-flex;
+    position: relative;
+    top: 50px;
+    right: 5px;
+}
+.subscriptionp{
+    display: inline-flex;
+    position: relative;
+    top: 150px;
+    right: 250px;
+}
+.libraryp{
+    display: inline-flex;
+    position: relative;
+    top: 200px;
+    right: 390px;
+}
+.explorep{
+    display: inline-flex;
+    position: relative;
+    top: 50px;
+    right: 50px;
+}
+.historyp{
+    display: inline-flex;
+    position: relative;
+    bottom: 100px;
+    right: 480px;
+}
+.videosp{
+    display: inline-flex;
+    position: relative;
+    top: 300px;
+    right: 575px;
+}
+
+.historyp{
+    display: inline-flex;
+    position: relative;
+    top: 350px;
+    right: 480px;
+}
+/* .watch_laterp{
+    display: inline-flex;
+    position: relative;
+    bottom: 400px;
+    right: 650px;
+} */
+.Likedp{
+    display: inline-flex;
+    position: relative;
+    top: 400px;
+    right: 800px;
+}
+.watch_laterp{
+    display: inline-flex;
+    position: relative;
+    top: 250px;
+    right: 680px;
+}
+
+.down_arrowp{
+    display: inline-flex;
+    position: relative;
+    top: 450px;
+    right: 940px;
+}
+
+.one{
+    margin: 25px;
+    position: relative;
+}
+.two{
+    margin: 25px;
+    position: relative;
+}
+.three{
+    margin: 25px;
+    position: relative;
+}
+.four{
+    margin: 25px;
+    position: relative;
+}
+.five{
+    margin: 25px;
+    position: relative;
+}
+.six{
+    margin: 25px;
+    position: relative;
+}
+.seven{
+    margin: 25px;
+    position: relative;
+}
+.eight{
+    margin: 25px;
+    position: relative;
+}
+.nine{
+    margin: 25px;
+    position: relative;
+}
+.ten{
+    margin: 25px;
+    position: relative;
+}
+.eleven{
+    margin: 25px;
+    position: relative;
+}
+.twelve{
+    margin: 25px;
+    position: relative;
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+  
